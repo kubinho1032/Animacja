@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\Animacja\Animacja\bin\Debug\Animacja.exe
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\Animacja\Animacja\bin\Debug\Animacja.pdb
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\Animacja\Animacja\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\Animacja\Animacja\obj\x86\Debug\Animacja.Form1.resources
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\Animacja\Animacja\obj\x86\Debug\Animacja.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\Animacja\Animacja\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\Animacja\Animacja\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\Animacja\Animacja\obj\x86\Debug\Animacja.exe
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2010\Projects\Animacja\Animacja\obj\x86\Debug\Animacja.pdb
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\Animacja\Animacja\obj\x86\Debug\Animacja.exe
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\Animacja\Animacja\obj\x86\Debug\Animacja.pdb
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\Animacja\Animacja\bin\Debug\Animacja.exe
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\Animacja\Animacja\bin\Debug\Animacja.pdb
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\Animacja\Animacja\obj\x86\Debug\Animacja.Form1.resources
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\Animacja\Animacja\obj\x86\Debug\Animacja.Properties.Resources.resources
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\Animacja\Animacja\obj\x86\Debug\Animacja.csproj.GenerateResource.Cache
